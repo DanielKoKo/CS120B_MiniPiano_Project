@@ -22,16 +22,12 @@
 > ![image](https://user-images.githubusercontent.com/32584958/152904024-1856cdbd-6781-492f-8459-c5873b16ebd9.png)
 
 ## Rules:
-> By default, the LCD screen will display the miniature piano. When the piano is displayed,
-buttons 9 and 11 (labeled in diagram below) will not be registered. 
->> If the user presses button 10, the menu will be displayed. However, buttons 1 - 8 will not work since the piano is no longer being
-displayed.
+> * By default, the LCD screen will display the miniature piano. When the piano is displayed, buttons 9 and 11 (labeled in diagram below) will not be registered. 
+> * If the user presses button 10, the menu will be displayed. However, buttons 1 - 8 will not work since the piano is no longer being displayed.
 
-> When inside the menu, the user can press button 9 to select a menu option, and button 10 to
-close the menu without any selection. By default, pressing button 10 in the menu will display
-the miniature piano to the user again. In order to cycle through the EEPROM melodies, the user
-has to first navigate to the second screen; pressing the microphone will not change the
-EEPROM melody in any other screens.
+> * When inside the menu, the user can press button 9 to select a menu option, and button 10 to close the menu without any selection. 
+> * By default, pressing button 10 in the menu will display the miniature piano to the user again. 
+> * In order to cycle through the EEPROM melodies, the user has to first navigate to the second screen; pressing the microphone will not change the EEPROM melody in any other screens.
 
 Controls:
 - 1: Piano key 1 (G on the left)
