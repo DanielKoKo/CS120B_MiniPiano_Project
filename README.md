@@ -6,20 +6,20 @@
 > * Complexity 3: https://youtu.be/xWpH7MeLUec
 
 ## Project Description:
-> * This custom lab project involves a playable miniature piano that has a real-time LCD model of the piano keys being played. 
-> * The LCD screen includes the note names on the bottom row, and the keys being played on the top row, which are differentiated between whole (full-bar) and half
+* This custom lab project involves a playable miniature piano that has a real-time LCD model of the piano keys being played. 
+* The LCD screen includes the note names on the bottom row, and the keys being played on the top row, which are differentiated between whole (full-bar) and half
 (half-bar) keys with custom LCD characters. Pressing the piano keys will emit the corresponding piano note from a speaker. 
-> * The miniature piano system also includes several melodies that are stored into the EEPROM of the microcontroller, which can be played using the speaker. 
-> * The LCD screen can also display a menu with the options of showing a real-time keyboard, playing the current EEPROM melody, and switching between EEPROM melodies. 
-> * To switch between EEPROM melodies, the user can tap a small microphone to cycle through the available melodies when that option is selected in the menu screen. 
-> * A joystick is used to navigate through the menu options, and buttons are used for opening and closing the menu.
+* The miniature piano system also includes several melodies that are stored into the EEPROM of the microcontroller, which can be played using the speaker. 
+* The LCD screen can also display a menu with the options of showing a real-time keyboard, playing the current EEPROM melody, and switching between EEPROM melodies. 
+* To switch between EEPROM melodies, the user can tap a small microphone to cycle through the available melodies when that option is selected in the menu screen. 
+* A joystick is used to navigate through the menu options, and buttons are used for opening and closing the menu.
 
 ## User Guide:
-> **_First menu screen_**
-> ![image](https://user-images.githubusercontent.com/32584958/152903878-b9a8d4d4-2769-4b0e-937e-7b356f4ffd84.png)
+**_First menu screen_**
+![image](https://user-images.githubusercontent.com/32584958/152903878-b9a8d4d4-2769-4b0e-937e-7b356f4ffd84.png)
 
-> **_Second menu screen_**
-> ![image](https://user-images.githubusercontent.com/32584958/152904024-1856cdbd-6781-492f-8459-c5873b16ebd9.png)
+**_Second menu screen_**
+![image](https://user-images.githubusercontent.com/32584958/152904024-1856cdbd-6781-492f-8459-c5873b16ebd9.png)
 
 ## Rules:
 > * By default, the LCD screen will display the miniature piano. When the piano is displayed, buttons 9 and 11 (labeled in diagram below) will not be registered. 
