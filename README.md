@@ -13,15 +13,19 @@
 > * The LCD screen can also display a menu with the options of showing a real-time keyboard, playing the current EEPROM melody, and switching between EEPROM melodies. 
 > * To switch between EEPROM melodies, the user can tap a small microphone to cycle through the available melodies when that option is selected in the menu screen. 
 > * A joystick is used to navigate through the menu options, and buttons are used for opening and closing the menu.
-User Guide:
-(first menu screen)
-(second menu screen)
-Rules:
-By default, the LCD screen will display the miniature piano. When the piano is displayed,
+
+## User Guide:
+> ![image](https://user-images.githubusercontent.com/32584958/152903878-b9a8d4d4-2769-4b0e-937e-7b356f4ffd84.png)
+> *(first menu screen)
+> ![image](https://user-images.githubusercontent.com/32584958/152904024-1856cdbd-6781-492f-8459-c5873b16ebd9.png)
+> (second menu screen)
+
+## Rules:
+> By default, the LCD screen will display the miniature piano. When the piano is displayed,
 buttons 9 and 11 (labeled in diagram below) will not be registered. If the user presses button 10,
 the menu will be displayed, and buttons 1 - 8 will not work, since the piano is no longer being
 displayed.
-When inside the menu, the user can press button 9 to select a menu option, and button 10
+> When inside the menu, the user can press button 9 to select a menu option, and button 10
 closes the menu without any selection. By default, pressing button 10 in the menu will display
 the miniature piano to the user again. In order to cycle through the EEPROM melodies, the user
 has to first navigate to the second screen; pressing the microphone will not change the
