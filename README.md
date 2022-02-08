@@ -16,9 +16,9 @@
 
 ## User Guide:
 > ![image](https://user-images.githubusercontent.com/32584958/152903878-b9a8d4d4-2769-4b0e-937e-7b356f4ffd84.png)
-> *(first menu screen)
+> **_First menu screen_**
 > ![image](https://user-images.githubusercontent.com/32584958/152904024-1856cdbd-6781-492f-8459-c5873b16ebd9.png)
-> (second menu screen)
+> **_Second menu screen_**
 
 ## Rules:
 > By default, the LCD screen will display the miniature piano. When the piano is displayed,
